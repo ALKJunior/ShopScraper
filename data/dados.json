@@ -1,0 +1,42 @@
+[
+  {
+    "produto_pesquisado": "RTX 4090 ti",
+    "dataPesquisa": "20240606172959",
+    "lojas": [
+      {
+        "nome": "Kabum",
+        "produto": "Placa de Video RTX 4060 TI PNY NVIDIA GeForce Verto Dual Fan, 16GB GDDR6, DLSS, Ray Tracing, G-Sync - VCG4060T16DFXPB1",
+        "preco": "R$ 2.899,99",
+        "frete": [
+          "Entrega Econômica\nR$ 25,44\nChegará até: 28/06/2024"
+        ]
+      },
+      {
+        "nome": "Mercado Livre",
+        "produto": "Placa De Vídeo Rtx 4060 Ti 4070 4080 4090 * Consulte * Leia",
+        "preco": "R$\n2.100",
+        "frete": "Frete grátis"
+      }
+    ]
+  },
+  {
+    "produto_pesquisado": "Ryzen 5 5600G",
+    "dataPesquisa": "20240606194227",
+    "lojas": [
+      {
+        "nome": "Kabum",
+        "produto": "Processador AMD Ryzen 5 5600GT, 3.6 GHz, (4.6GHz Max Turbo), Cachê 4MB, 6 Núcleos, 12 Threads, AM4 - 100-100001488BOX",
+        "preco": "R$ 809,99",
+        "frete": [
+          "Entrega Econômica\nR$ 24,05\nChegará até: 28/06/2024"
+        ]
+      },
+      {
+        "nome": "Mercado Livre",
+        "produto": "Processador AMD Ryzen 5 4600G AM4 4.2GHz 11MB Cache Wraith Stealth Radeon Graphics - 100-100000147BOX",
+        "preco": "R$\n733\n,\n03",
+        "frete": "Frete grátis"
+      }
+    ]
+  }
+]
